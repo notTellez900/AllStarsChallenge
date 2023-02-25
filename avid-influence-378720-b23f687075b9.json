@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "avid-influence-378720",
+  "private_key_id": "b23f687075b97012a9c9336c6c1377ea61c58d6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsSfkL8c8SyNI0\nZvYqOALNTqDTs4HHMAXS14kp73bhugOjNUDUq35ZgjFkGfHAycnQWvP2Iu9m1oyN\nGKsEYL9OG3iT/MRyUBQKTH6/dqzGCD1KlHlLFQqutLK7MkcunHD3mYpa+9QJya3f\nrYfuv9tLmzQw1JvKYgI1tFs3XLyYPLTP/pyTclSw2rLDtKnFaMuzIQK1rc/e7/Ee\nCKMQlttkw20nVoJfR0f4b5YEYZ1YAe6Z/AJUDmjY1mowBlG6VHxB8E7LnU5moEmM\nuADAxh4IwCgsjmfYxHLApQofHqlusHZmOBDPLVfbFEi6VhZF9xV7Bw9ZvHKUgk+l\nHaCIGU33AgMBAAECggEAOUEf7VM/YFuyV028Eo2oiLfPhGrL/vi7hrSv1WrJ0/uw\nB8XDtKkFBRPZ/A0PJOUqFv6SwkIb0s4LyTvgYUURbhB9ApjmY6Ku9jkziccTZYAJ\ndkZfBI+KjEJqfwEXXKsKc43nx5KWhWYrTQDrAnFpm/eI4Y1V9GyblWNJSN2dou1E\nv+LAQacAhCn1/ZtNb8uYu+39W8h6VQb3qM8BWMT6lMHHPK23uZRTQgSYbKjErkIe\nsqYa0OE9s5BAiJ4BdhwBRt//P9YvrgvGU2PJnMepYe6U5VXXGZozojGWULhWpecc\nrptn0EnLH+uAkaAy8sUymJl/hMan6VssszFROfqswQKBgQDwcwLDaprG+l7SSYWW\nxkm+P5a3M+GuA8o8XBmkgrOEbH5SN32j6Xglb13QZpahU7EdaCUT/+SeJNLwKdRJ\n4BdGtj/Bq2WX5wacXw+RqN5i3cGdAUtS1big8+Hb+uQhAnXchaUpdi3dYpajO1X5\n769KK/TQFcFMXfSTEoiED7ehVwKBgQC3bnfwMYmJj8JXyjpqrv2p6JUbC87nqmXp\nm7BFVJTQ4NPN4ZPppZ0lKhVgFxu1v50CjecWfm56WiPA0p9Skvpqdy/KqY0pXzMg\nWLCLZDM3W8CNf1I3eIE4WkuJnGj+bz2pgJAB1YFxQjCOGm6hhugn3aDHtTim9Zj8\nJeaTigy0YQKBgChSQQ5gHCBt7+S3q41DJy6eHzoNmzTBMfK5RxuNR2lXgD9tSsZn\n6lvstwCxk2TuUe8qfb1C1iWm6zCW8yCIUZ7sBPkHMvwsI7GpR0UX2mMd6M/ZXbZA\nXLuw6hknk4XtkbIvPykaxkovtC8fTiWhifWYNW+HlmimANOA8h+jOxn1AoGBAJur\nUnozcCegKyxZ4U2ciIXjbnbvhH4yrB6fE+8iotDJnLaClAabmEtr9YwA0HFj1hnO\n16jNT3DigqknljJ7ra0gzRxO3A+aTUdMPTdup9B5O2ZaASo2SGPMrYJxjOExAsGQ\n66XCzgGSTKasY+sNFISQn9wcPaHjmBuVBqN7auDBAoGAPPipXLSQDJFHgMVb4gAL\nsuFJW60j0O78tr9Uc/I9zfaZKpjyQbVYv+BuK3Rq+zqhX9t7oQwqBrAJ3PRpdKfV\ngziTcS3V32v/q8ctSa6VB7Yjo1D5W4Nl/+Bla1OStf9GOktQiQ8JmGxcse3Ss4h/\nS1UuFXy300bAx5NTYc7L9t8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nico-377@avid-influence-378720.iam.gserviceaccount.com",
+  "client_id": "101228747061517451949",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nico-377%40avid-influence-378720.iam.gserviceaccount.com"
+}
